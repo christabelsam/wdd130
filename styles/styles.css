@@ -17,9 +17,10 @@ img{
     padding: 2px;
     box-shadow: 0 0 30px gray;
 }
-p{
-    padding: 0;
+main{
+    width: max;
 }
+
 aside{
     width: 300px;
     margin: auto;
@@ -32,6 +33,9 @@ aside{
         width: 200px;
         height: auto;
     }
+}
+p{
+    padding: 0;
 }
 footer {
     margin-top: auto;
