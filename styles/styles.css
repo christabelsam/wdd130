@@ -28,7 +28,7 @@ aside{
     background-color: lightgray;
     color: darkcyan;
     text-align: center;
-aside img {
+     aside img {
         width: 200px;
         height: auto;
     }
